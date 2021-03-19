@@ -9,6 +9,7 @@ the links below:
 
 [What is a Program](https://mybinder.org/v2/gh/ryanhausen/cse20-binder-env/master?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fryanhausen%252Fcse-20-spring-2021%26urlpath%3Dtree%252Fcse-20-spring-2021%252FCSE20_What-is-a-Program.ipynb%26branch%3Dmain)
 
+[Variables and Expressions](https://mybinder.org/v2/gh/ryanhausen/cse20-binder-env/master?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fryanhausen%252Fcse-20-spring-2021%26urlpath%3Dtree%252Fcse-20-spring-2021%252FCSE20_Variables-Expressions.ipynb%26branch%3Dmain)
 
 
 
